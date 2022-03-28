@@ -1,0 +1,15 @@
+Eiffel-torony;Párizs;1889;eiffel.jpg;eiffel.txt
+Pisai ferde torony;Pisa;1173-1655;pisai.jpg;pisai.txt
+Szabadság-szobor;New York;1875-1886;szabadsag.jpg;szabadsag.txt
+Gízai piramisok;Egyiptom;i. e. 2600-2500;piramis.jpg;piramis.txt
+Louvre;Párizs;1793;louvre.jpg;louvre.txt
+Aggteleki barlang;Aggtelek;1280;"Nagy János Vilmos/Aggtelek/agtelek.jpg";Nagy János Vilmos/Aggtelek/aggtelekipark.txt
+Bazilika;Budapest;1868;"Nagy János Vilmos/bazilika/bazilika.jpg";Nagy János Vilmos/bazilika/bazilika.txt
+Nemzeti Színház;Budapest;1875;"Nagy János Vilmos/nemzeti színház/nemzetiszínház.jpg";Nagy János Vilmos/nemzeti színház/nemzetiszinhaz.txt
+Velencei-tó;Velence;1863;"Nagy János Vilmos/velencei/velencei.jpg";Nagy János Vilmos/velencei/velencei.txt
+Parlament;Budapest;1904;"Nagy János Vilmos/parlament/parlament.jpg";Nagy János Vilmos/parlament/orszaghaz.txt
+Agyaghadsereg;-;-;-;Csabi/agyaghadsereg.txt
+Kínai nagy fal;-;-;-;Csabi/kinainagyfal.txt
+Három-szurdok-gát;-;-;-;Csabi/haromszurdokgat.txt
+Nyári palota;-;-;-;Csabi/nyaripalota.txt
+Tiltott város;-;-;-;Csabi/tiltottvaros.txt

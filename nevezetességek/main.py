@@ -15,9 +15,9 @@ inputFile("nevezetessegek.txt")
 def f1():
     for s in range(len(nevezetességek)):
         print(str(s+1) + " - " + nevezetességek[s].név)
-    valasztas = int(input("Válassz egy nevezetességet amiről szeretnél többet tudni (1-" + str(len(nevezetességek)) + ")): "))
+    valasztas = int(input("Válassz egy nevezetességet többet akarsz tudni (1-" + str(len(nevezetességek)) + ")): "))
     while valasztas < 1 or valasztas > len(nevezetességek):
-        valasztas = int(input("Válassz egy nevezetességet amiről szeretnél többet tudni (1-" + str(len(nevezetességek)) + ")): "))
+        valasztas = int(input("Válassz egy nevezetességet többet akarsz tudni (1-" + str(len(nevezetességek)) + ")): "))
     print("\n\n")
     v = nevezetességek[valasztas-1]
     print(v.név, "\n")
